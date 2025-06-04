@@ -77,9 +77,21 @@ The project requires the following external libraries:
 
 ## Screenshots
 
-Include screenshots of the application in action, if possible, to give users a visual understanding of the system.
+### 1. ATM.java
+![image](https://github.com/user-attachments/assets/5808d84b-10e1-422c-86f7-54776a005658)
+### 2. Deposit.java
+![image](https://github.com/user-attachments/assets/3d87fe21-ce1e-4623-bfdd-bcf579c22f37)
+### 3. BalanceEnquiry.java
+![image](https://github.com/user-attachments/assets/af7525ca-a4d3-4c1e-b568-fdc73cc23454)
+### 4. MiniStatement.java
+![image](https://github.com/user-attachments/assets/cdcc68c3-a7f6-4ac4-9d29-950d71a57a22)
+### 5. PinChange.java
+![image](https://github.com/user-attachments/assets/1730ca61-5439-4c67-bd9d-8d75aa295807)
+### 6. Withdraw.java
+![image](https://github.com/user-attachments/assets/9ce33f80-4d01-468d-89db-a6b8742f7cd2)
+### 7. FastCash.java
+![image](https://github.com/user-attachments/assets/6096365d-0c7c-45a5-9539-5f44d44a53dd)
 
-![Bank Management System](path/to/your/bank_image.jpg)
 
 ## Contributing
 
